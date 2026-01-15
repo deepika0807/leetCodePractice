@@ -1,0 +1,10 @@
+
+v
+java:S1121".Extract the assignment out of this expression.(²²Úúÿÿÿÿ8ˆºßé¹3J$25726464-6c02-46ac-a5a2-fc8ac1ffbe0b
+q
+java:S1121".Extract the assignment out of this expression.(òÂéÀ8ˆºßé¹3J$3742425c-d9ce-440c-8319-5450255f1b86
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—Õ÷¯ùÿÿÿÿ8ïÂè¹3J$d65c1ddb-36dd-47bd-a10e-a2108fc3f56a
+~	java:S125"<This block of commented-out lines of code should be removed.(¬€ªõ8¡ïÂè¹3J$df6c6999-38c8-4c49-976f-66c5af55755f
+r	java:S106"+Replace this use of System.out by a logger.(ËÈäÑùÿÿÿÿ8¡ïÂè¹3J$e02e4a87-3da1-40d3-b9ec-6c01fdba1ace
+•
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ìË¢8£ïÂè¹3J$2d4bd162-c0b2-4946-9fd9-f5b2521585db

@@ -1,0 +1,10 @@
+
+o
+java:S1602",Remove useless curly braces around statement(ù°Ô‹8ﬁõÁ¡î3J$cbf5f38f-79d4-40d4-ab05-ef12fff47ac1
+l	java:S106	"+Replace this use of System.out by a logger.(Ò·…*8ﬂõÁ¡î3J$9e9b2dc9-d956-4b55-b375-ad93ead38360
+ú
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(å±§Ô8‡õÁ¡î3J$338779d9-79f9-4432-a398-23117ec3ec8f
+
+java:S1128"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µ“Ãˇ8…ÿÏ¡î3J$0e1d449c-d2be-4d2d-9b3f-0fd6ac243c37
+à
+java:S1128"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(Ú™è¯8…ÿÏ¡î3J$5f06bc4e-6f1f-4129-a656-ba4d4e7c12f2

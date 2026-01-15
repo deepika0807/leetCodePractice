@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <style type="text/css">
+        #outlook a {
+        padding: 0;
+        }
+        /* Force Outlook to provide a "view in browser" menu link. */
+        body {
+        width: 100% !important;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        margin: 0;
+        font-family: Arial;
+        padding: 10px;
+        font-size: 16px;
+        }
+        /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+        .ExternalClass {
+        width: 100%;
+        }
+        /* Force Hotmail to display emails at full width */
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+        line-height: 100%;
+        }
+        /* Force Hotmail to display normal line spacing.*/
+        #backgroundTable {
+        margin: 0;
+        padding: 0;
+        width: 100% !important;
+        line-height: 100% !important;
+        }
+        img {
+        outline: none;
+        text-decoration: none;
+        border: none;
+        -ms-interpolation-mode: bicubic;
+        }
+        a img {
+        border: none;
+        }
+        .image_fix {
+        display: block;
+        }
+        p {
+        margin: 0px 0px !important;
+        }
+        table td {
+        border-collapse: collapse;
+        }
+        table {
+        border-collapse: collapse;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+        }
+        a {
+        color: #0a8cce;
+        text-decoration: none;
+        text-decoration: none!important;
+        }
+        .PrimaryBgColor {
+        background-color: #2D2F3B;
+        }
+        .orderNumber {
+        font-size: 12px;
+        color: #777777;
+        }
+        .emailActionBttn {
+        padding: 8px 12px;
+        font-size: 24px;
+        background-color: #2D2F3B;
+        color: #fff;
+        border-radius: 4px;
+        }
+        .emailActionBttn:hover {
+        background-color: #42434e;
+        cursor: pointer;
+        }
+        .productImg {
+        margin-right: 2rem;
+        width: 125px;
+        height: 208px;
+        }
+        .flexContainer {
+        display: flex;
+        align-items: center;
+        width: 400px;
+        }
+        .flexContainer2 {
+        display: flex;
+        align-items: center;
+        vertical-align: middle;
+        }
+        .price {
+        margin-left: 6rem;
+        }
+        /*STYLES*/
+        table[class=full] {
+        width: 100%;
+        clear: both;
+        }
+
+        .icon:hover {
+            -webkit-transform: scale(1.1);
+            -ms-transform: scale(1.1);
+            transform: scale(1.1);
+        }
+
+        img {
+            outline: none;
+            text-decoration: none;
+            border: none;
+            -ms-interpolation-mode: bicubic;
+        }
+
+        .primaryBgColor {
+            background-color: #070707;
+        }
+
+        .logo
+        {
+            height: 50px;
+            width: 50px;
+        }
+
+        .headerField
+        {
+            border: 4px solid white;
+        }
+
+        .normalField
+        {
+            border: 4px solid white;
+            padding-left: 25px;
+        }
+
+        .normalValue
+        {
+            border: 4px solid white;
+        }
+
+        /*IPAD STYLES*/
+        @media only screen and (max-width: 640px) {
+        a[href^="tel"],
+        a[href^="sms"] {
+        text-decoration: none;
+        color: #0a8cce;
+        /* or whatever your want */
+        pointer-events: none;
+        cursor: default;
+        }
+        .mobile_link a[href^="tel"],
+        .mobile_link a[href^="sms"] {
+        text-decoration: default;
+        color: #0a8cce !important;
+        pointer-events: auto;
+        cursor: default;
+        }
+        table[class=devicewidth] {
+        width: 440px!important;
+        text-align: center!important;
+        }
+        table[class=devicewidthinner] {
+        width: 420px!important;
+        text-align: center!important;
+        }
+        img[class=banner] {
+        width: 225px!important;
+        height: 375px!important;
+        }
+        img[class=colimg2] {
+        width: 225px!important;
+        height: 375px!important;
+        }
+        }
+        /*IPHONE STYLES*/
+        @media only screen and (max-width: 480px) {
+        a[href^="tel"],
+        a[href^="sms"] {
+        text-decoration: none;
+        color: #0a8cce;
+        /* or whatever your want */
+        pointer-events: none;
+        cursor: default;
+        }
+        .mobile_link a[href^="tel"],
+        .mobile_link a[href^="sms"] {
+        text-decoration: default;
+        color: #0a8cce !important;
+        pointer-events: auto;
+        cursor: default;
+        }
+        table[class=devicewidth] {
+        width: 280px!important;
+        text-align: center!important;
+        }
+        table[class=devicewidthinner] {
+        width: 260px!important;
+        text-align: center!important;
+        }
+        img[class=banner] {
+        width: 225px!important;
+        height: 375px!important;
+        }
+        img[class=colimg2] {
+        width: 225px!important;
+        height: 375px!important;
+        }
+        td[class=mobile-hide] {
+        display: none!important;
+        }
+        td[class="padding-bottom25"] {
+        padding-bottom: 25px!important;
+        }
+        }
+     </style>
+</head>
+
+<body>
+    <#setting datetime_format ="d MMMM yyyy HH:mm:ss z">
+
+    <!-- Start of preheader -->
+    <table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" id="backgroundTable" st-sortable="preheader">
+         <tbody>
+             <tr>
+               <td>
+                  <table width="630" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+                       <tbody>
+                        <tr>
+                            <td width="100%">
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+                                    <tbody>
+
+                                        <!-- Spacing -->
+                                        <tr>
+                                            <td width="100%" height="10"></td>
+                                        </tr>
+                                        <!-- Spacing -->
+
+                                        <tr class="primaryBgColor">
+                                            <td>
+                                                <table width="200" align="left" border="0" cellpadding="10px" cellspacing="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td align="left" style="padding: 3px 0 0 15px;">
+                                                                <img class="icon logo" alt="Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfqdDMKvprVFt-1q1j6pkRDqJWxFzWVKFjxA&usqp=CAU">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                       </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- End of preheader -->
+
+     <!-- Start Full Text -->
+     <table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" id="backgroundTable" st-sortable="full-text">
+        <tbody>
+           <tr>
+              <td>
+                 <table width="630" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+                    <tbody>
+                       <tr>
+                          <td width="100%">
+                             <table width="630" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+                                <tbody>
+                                   <!-- Spacing -->
+                                   <tr>
+                                      <td height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;">&nbsp;</td>
+                                   </tr>
+                                   <!-- Spacing -->
+                                   <tr>
+                                      <td>
+                                        <table cellspacing="0" cellpadding="6px" border="0" align="center" width="100%" style="padding: 15px;"> 
+                                            <col style="width:25%">
+                                            <col style="width:75%">
+
+                                            <tr>
+                                                <td width="100%" colspan="2" class="headerField" height="20">
+                                                    <p >
+                                                        <b>${MessagePayload.AlertField12}</b>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                   </tr>
+
+                                     <tr>
+                                      <td>
+                                        <table cellspacing="0" cellpadding="6px" border="0" align="center" width="100%" style="padding: 15px;"> 
+                                            <col style="width:25%">
+                                            <col style="width:75%">
+
+                                            <tr>
+                                                <td width="100%" colspan="2" class="headerField" height="20">
+                                                    <p >
+                                                       ${MessagePayload.AlertField10}
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                      </td>
+                                   </tr>
+                                   <tr>
+                                    <td>
+                                      <table cellspacing="0" cellpadding="6px" border="0" align="center" width="100%" style="padding: 15px;"> 
+                                          <col style="width:25%">
+                                          <col style="width:75%">
+
+                                          <tr>
+                                              <td width="100%" colspan="2" class="headerField" height="20">
+                                                  <p >
+                                                     ${MessagePayload.AlertField13}
+                                                  </p>
+                                              </td>
+                                          </tr>
+                                      </table>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td>
+                                      <table cellspacing="0" cellpadding="6px" border="0" align="center" width="100%" style="padding: 15px;"> 
+                                          <col style="width:25%">
+                                          <col style="width:50%">
+
+                                          <tr>
+                                              <td width="100%" colspan="2" class="headerField" height="20">
+                                                  <p >
+                                                     ${MessagePayload.AlertField15}
+                                                  </p>
+                                              </td>
+                                          </tr>
+                                      </table>
+                                    </td>
+                                 </tr>
+                                   <tr>
+                                    <td>
+                                      <table cellspacing="0" cellpadding="6px" border="0" align="center" width="100%" style="padding: 15px;"> 
+                                       
+                                        <col style="widows: 28%">
+                                        <col style="width:51%">
+    
+                                          <tr>
+                                                <td width="100%" colspan="2" class="headerField" height="20">
+                                                    <p >
+                                                        <b>Additional details of the invoice:</b>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                    
+                                            <tr>
+                                                <td>
+                                                    <p >
+                                                        1. <b>Invoice Date:</b>
+                                                    </p>
+                                                </td>
+                                                <td>
+                                                    <p>
+                                                        ${MessagePayload.AlertField14!}
+                                                    </p>
+                                                </td>
+                                            </tr>
+                            
+                                            <tr>
+                                                <td>
+                                                    <p >
+                                                        2. <b>Billed To Facility:</b>
+                                                    </p>
+                                                </td>
+
+                                                <td>
+                                                    <p >
+                                                         ${MessagePayload.AlertField8!}  
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                    
+                                            <tr>
+                                                <td>
+                                                    <p >
+                                                        3. <b>Billing Account Number:</b>
+                                                    </p>
+                                                </td>
+
+                                                <td>
+                                                    <p >
+                                                         ${MessagePayload.AlertField9!}
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                    
+                                            <tr>
+                                                <td>
+                                                    <p >
+                                                       4. <b>Service Provider Invoice Number:</b>
+                                                    </p>
+                                                </td>
+
+                                                <td>
+                                                    <p >
+                                                         ${MessagePayload.AlertField4!}  
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <p >
+                                                      5. <b>Invoice Number in Shipper Network:</b>
+                                                    </p>
+                                                </td>
+
+                                                <td>
+                                                    <p >
+                                                         ${MessagePayload.AlertField2!}  
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                      </table>
+                                    </td>
+                                 </tr>
+                                 <tr>
+                                    <td>
+                                      <table cellspacing="0" cellpadding="6px" border="0" align="center" width="100%" style="padding: 15px;"> 
+                                       
+                                        <col style="widows: 28%">
+                                        <col style="width:72%">
+    
+                                          <tr>
+                                                <td width="100%" colspan="2" class="headerField" height="20">
+                                                    <p >
+                                                        <b>Please make the necessary changes and submit the corrected invoice.</b>
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                      </table>
+                                    </td>
+                                 </tr>
+                                </tbody>
+                             </table>
+                          </td>
+                       </tr>
+                    </tbody>
+                 </table>
+              </td>
+           </tr>
+        </tbody>
+     </table>
+     <!-- end of full text -->
+
+    <!-- Start of Postfooter -->
+    <table width="100%" bgcolor="#ffffff" cellpadding="0" cellspacing="0" border="0" id="backgroundTable" st-sortable="postfooter">
+        <tbody>
+           <tr>
+              <td>
+                 <table width="630" cellpadding="0" cellspacing="0" border="0" align="center" class="devicewidth">
+                    <tbody>
+                       <tr>
+                          <td width="100%">
+                             <table width="100%" cellpadding="15px" cellspacing="0" border="0" align="center" class="devicewidth">
+                                <tbody>
+                                    <!-- Spacing -->
+                                    <tr>
+                                        <td width="100%" height="0"></td>
+                                    </tr>
+                                    <!-- Spacing -->
+
+                                    <tr class="primaryBgColor">
+                                        <td>
+                                            <table border="0" cellspacing="0" cellpadding="0" style="padding-left: 25px;">
+                                                <tr style="height: 30px;">
+                                                    <td>
+                                                        <a style="font-family: 'Oswald', sans-serif; -webkit-font-smoothing: antialiased;font-size:16px; color: #ffffff; display: inline; font-weight: 400; text-decoration: none;"
+                                                            href="https://www.manh.com/services/customer-support"
+                                                            target="_blank">Customer Service</a>
+                                                    </td>
+                        
+                                                    <td>
+                                                        <a clas="emailActionBttn"style="font-family: 'Oswald', sans-serif; -webkit-font-smoothing: antialiased;font-size:16px; color: #ffffff; padding-right: 30px; display: inline; font-weight: 400; text-decoration: none;"
+                                                        href="mailto:info@customer.com" target="_blank">Email:
+                                                            info@customer.com</a>
+                                                    </td>
+                                                </tr>
+                        
+                                                <tr style="height: 30px;">
+                                                    <td>
+                                                        <p style="font-family: 'Oswald', sans-serif; -webkit-font-smoothing: antialiased;font-size:16px; color: #ffffff; padding-right: 30px; display: inline; font-weight: 400; text-decoration: none;">
+                                                            Phone: +1 555 555 5555</p>
+                                                    </td>
+                                                </tr>
+                        
+                                            </table>
+                                        </td>
+                                    </tr>
+                        
+                                   <!-- Spacing -->
+                                   <tr>
+                                      <td width="100%" height="10"></td>
+                                   </tr>
+                                   <!-- Spacing -->
+                                </tbody>
+                             </table>
+                          </td>
+                       </tr>
+                    </tbody>
+                 </table>
+              </td>
+           </tr>
+        </tbody>
+     </table>
+     <!-- End of postfooter -->
+</body>
+
+</html>

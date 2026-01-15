@@ -1,0 +1,9 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Ïà8„àİ˜3J$d623eee5-4228-42d2-83cf-e752833b9e19
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ŠÓ±8àİ˜3J$4eb12f8f-8697-4893-9cd5-7637e124f1cd
+m	java:S106"+Replace this use of System.out by a logger.(âÑç8‘àİ˜3J$465427b9-aa3b-43be-8cd5-b3c7f51ba622
+j
+java:S1659$"'Declare "maxLength" on a separate line.(ÀÀŞÜ8’àİ˜3J$77a50097-0b4d-483f-9a5c-932f702a2861
+r	java:S106-"+Replace this use of System.out by a logger.(İ›•ùÿÿÿÿ8’àİ˜3J$eef9ab05-2c21-4cd5-86cd-c46d4fee7eb8
+d
+java:S1116-"Remove this empty statement.(İ›•ùÿÿÿÿ8“àİ˜3J$37d4e2db-f98a-4949-ad8b-7e907744ddcc

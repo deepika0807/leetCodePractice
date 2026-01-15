@@ -1,0 +1,17 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıŠû£8úŒÂí“3J$1a30ff23-cb83-4c1e-9dd7-fb0d7805988c
+‚
+java:S2259"?A "NullPointerException" could be thrown; "a" is nullable here.(¯ÛÁ™8ÓöÈí“3J$68880aec-65c3-4381-826d-db77cfaf75a5
+‡
+java:S2259	"?A "NullPointerException" could be thrown; "s" is nullable here.( ïßøÿÿÿÿ8¬†Äí“3J$36ecc0a9-6f4b-4487-ba05-079b6f55a237
+\
+java:S1854":Remove this useless assignment to local variable "thread".(ÖıšÄşÿÿÿÿ8‹Åú“3
+r	java:S106	"+Replace this use of System.out by a logger.( ïßøÿÿÿÿ8…Âí“3J$34d1acf2-5e4a-493e-b64c-fdf1a3a06708
+r	java:S106"+Replace this use of System.out by a logger.(ô€Âòüÿÿÿÿ8…Âí“3J$cb07b70d-f1ba-4bdb-8734-8b3eb65b560d
+m	java:S106"+Replace this use of System.out by a logger.(Ã¿‘‘8…Âí“3J$6cbabf07-1258-4522-afc1-18af507a0702
+r	java:S106"+Replace this use of System.out by a logger.(öê·ôşÿÿÿÿ8…Âí“3J$578f4959-fa50-4257-855d-c5430e74cb26
+r	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8ØöÈí“3J$3347fc31-4b2e-47cc-bfa7-38e7c3fb9695
+M
+java:S1481"+Remove this unused "thread" local variable.(ÖıšÄşÿÿÿÿ8‘Åú“3
+m	java:S106"+Replace this use of System.out by a logger.(¯ÛÁ™8ØöÈí“3J$7822e127-a262-4eac-a663-83577cbc50da
+m	java:S106"+Replace this use of System.out by a logger.(¹¤µ8ş´Ñí“3J$ffbd22e2-f0e0-4543-b207-a8a6a57b0401

@@ -1,0 +1,50 @@
+
+Ÿ
+java:S1488Ë"[Immediately return this expression instead of assigning it to the temporary variable "res".(ë§æì8Ëâ…Ï«3J$198d2e75-cb79-49d4-8beb-5e791423fb6b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥›ðÓøÿÿÿÿ8£ýéÎ«3J$10f2c2fb-863e-4132-b001-6975937f3558
+˜
+java:S3655}"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Àý°±ÿÿÿÿÿ8®ýéÎ«3J$7e39bb7a-cfb3-4638-9a0f-191b7ac7c183
+˜
+java:S3655~"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Êê¼þþÿÿÿÿ8®ýéÎ«3J$1225fa02-c49f-4398-9e6b-3a24250f46fa
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ßã±‡ùÿÿÿÿ8±ýéÎ«3J$7109b04f-b39e-40ba-b4cb-3d428f5336ee
+~	java:S125I"<This block of commented-out lines of code should be removed.(àÏ…ö8´ýéÎ«3J$489802d5-136f-41aa-b107-2e78a46f22ae
+ƒ	java:S125N"<This block of commented-out lines of code should be removed.(âÖº„üÿÿÿÿ8´ýéÎ«3J$f7d15ef6-0fca-4a32-a2f4-e72e2b3b1f48
+~	java:S125W"<This block of commented-out lines of code should be removed.(ÐµçÌ8´ýéÎ«3J$d7ae6d3a-78b1-403f-b2cd-c4e10371cbe0
+ƒ	java:S125a"<This block of commented-out lines of code should be removed.(îÝšèüÿÿÿÿ8µýéÎ«3J$5e8d9725-fb16-456e-a6d1-4c8715c55c9a
+…
+java:S1612d"BReplace this lambda with method reference 'Comparable::compareTo'.(îÂµ¼8¶ýéÎ«3J$3b0070b8-604d-4144-97c3-7e4f5fbfa08d
+	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‰£Á8·ýéÎ«3J$80caa490-e6cf-4da3-adc6-ec64047ede87
+r	java:S106w"+Replace this use of System.out by a logger.(ÄãËÞýÿÿÿÿ8¸ýéÎ«3J$b14b0fa3-b8f9-458a-8ad4-eac0e68974cb
+r	java:S106x"+Replace this use of System.out by a logger.(°¹þ°ýÿÿÿÿ8¸ýéÎ«3J$7aadddb8-f6c9-429e-af8c-0fbd57794098
+	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±½¾Ý8¸ýéÎ«3J$bd869b4d-28d4-4d20-a359-b04e5b09cc7e
+r	java:S106"+Replace this use of System.out by a logger.(ýÐ±Õÿÿÿÿÿ8¹ýéÎ«3J$e9bf5987-5505-45b6-9497-33a070c44086
+s	java:S106€"+Replace this use of System.out by a logger.(Ï»œÉúÿÿÿÿ8¹ýéÎ«3J$a19fa0cb-85de-42bd-9eab-13ef7b01faff
+‘	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¿®8¹ýéÎ«3J$0422f7e6-2649-43da-a5f3-624c99329e9b
+„	java:S125‰"<This block of commented-out lines of code should be removed.(¥è¬¥ùÿÿÿÿ8ºýéÎ«3J$fc4e6534-12a6-4150-a558-ae6836ca411d
+s	java:S106Œ"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8»ýéÎ«3J$4baecb95-e36a-4a53-bddd-4c457aaf868c
+–	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èó¬èúÿÿÿÿ8»ýéÎ«3J$5ae61e8c-5df8-495a-bf42-c8440d013300
+s	java:S106“"+Replace this use of System.out by a logger.(Œ™Òøÿÿÿÿ8»ýéÎ«3J$b5c34e63-2769-44e1-9237-7cc68622a779
+‘	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ä‡ý8¼ýéÎ«3J$9e8c6116-2395-406a-bd06-92932e729a54
+n	java:S106›"+Replace this use of System.out by a logger.(ö‚å¨8¼ýéÎ«3J$c744ff24-519d-4031-8b9d-23fffc93a68e
+‘	java:S100Ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í³½Ç8½ýéÎ«3J$1003a042-5053-4a6d-a772-bb3c28ad3dd0
+s	java:S106¡"+Replace this use of System.out by a logger.(ÌÎ­–úÿÿÿÿ8½ýéÎ«3J$548a63e9-f6f1-440e-b8c3-476e8b3a72c7
+‘	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µãâ±8½ýéÎ«3J$74808fc6-9178-4151-8899-779f244061d6
+s	java:S106©"+Replace this use of System.out by a logger.(ÉàÉ­þÿÿÿÿ8¾ýéÎ«3J$f6e94750-aa58-4f40-b4cc-d830ef0db7d6
+–	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š­ø›ýÿÿÿÿ8¾ýéÎ«3J$1f17b897-866a-45d4-9287-46cfcb8cb239
+n	java:S106²"+Replace this use of System.out by a logger.(‹®§8¿ýéÎ«3J$78e61232-3e50-493f-8c8e-469ef7bafcb9
+„	java:S125±"<This block of commented-out lines of code should be removed.(‚Ù¹Þûÿÿÿÿ8¿ýéÎ«3J$cb500ba5-1f6f-4dbd-9fb9-b7f36d360cc5
+–	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·Ÿàùÿÿÿÿ8¿ýéÎ«3J$cb482852-890e-4ff6-b341-d7b1fc368fea
+e
+java:S1116¹"Remove this empty statement.(Åñ­õþÿÿÿÿ8ÀýéÎ«3J$e369d135-166b-4aae-ab8d-3d9a322c26d8
+s	java:S106º"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8ÁýéÎ«3J$5c63f987-0bbc-4aa9-828e-7216454d6810
+–	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¥êúÿÿÿÿ8ÁýéÎ«3J$39c39bb0-3caa-4e9a-81ac-dc420fab1243
+„	java:S125À"<This block of commented-out lines of code should be removed.(¸ø¹Ïýÿÿÿÿ8ÁýéÎ«3J$b9509df3-5415-4988-b50d-a9455d46a78b
+s	java:S106Å"+Replace this use of System.out by a logger.(Œ™Òøÿÿÿÿ8ÁýéÎ«3J$948f4d58-3be5-4411-b077-4435fd0cd06e
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‘ˆëÎ«3J$e0196223-a7b4-49c4-b4e9-dc36ea99f5e4
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8‘ˆëÎ«3J$56e8c8f6-2eb8-436a-a6f7-b8fa864676ed
+s
+java:S1128	"1Remove this unused import 'java.util.LinkedList'.(»Äð18‘ˆëÎ«3J$009adcb2-7bcd-465a-8268-2683c329b421
+
+java:S1128"ERemove this unused import 'com.sun.jdi.connect.spi.TransportService'.(¡µý£ýÿÿÿÿ8‘ˆëÎ«3J$87d08c96-5506-446e-9a1a-368241b51cbb

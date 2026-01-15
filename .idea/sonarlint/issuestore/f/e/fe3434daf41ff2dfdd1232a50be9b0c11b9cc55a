@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë‘­õþÿÿÿÿ8ž‘«†·3J$f058001d-afb1-44c8-9cb4-06c16e74812a
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(”Ä·üÿÿÿÿ8ª‘«†·3J$ab75bf93-7825-4e76-95ed-26c2cfef1c0d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ÃªœŽøÿÿÿÿ8ß×«†·3J$340a3c2e-6025-4087-af1c-8aed76bd2d12
+€
+java:S1854("=Remove this useless assignment to local variable "rightList".(ìÙñŠ8«‘«†·3J$908256a9-6579-498a-a338-d5bf3ec1c874
+q
+java:S1481(".Remove this unused "rightList" local variable.(ìÙñŠ8¬‘«†·3J$0e509808-f573-46a6-8943-ecac41782e15
+^
+java:S3626T"Remove this redundant jump.(ûÁÝ…8­‘«†·3J$ad163dbc-64ac-4601-9da8-2a5eb505134b
+t
+java:S1197E",Move the array designators [][] to the type.(ØÞÇùþÿÿÿÿ8®‘«†·3J$1f708285-dcb7-4d9f-ab3c-8ea288adeaa3
+r	java:S106G"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8®‘«†·3J$adcbf84d-bffe-4e19-a5b3-13488b4a74c1
+o
+java:S1197W",Move the array designators [][] to the type.(ÓÆ®Œ8®‘«†·3J$ba5ef7e7-bf22-4ee1-a628-0c6c37efff70
+r	java:S106Y"+Replace this use of System.out by a logger.(úõ–áùÿÿÿÿ8®‘«†·3J$137e1955-60e4-47c3-a8a3-02e91574ac1d
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¯‘«†·3J$0649734e-ba40-4949-a4b1-2dd491d6729f

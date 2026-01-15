@@ -1,0 +1,15 @@
+
+³
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¿½Û·8¹ºÓõ3J$4de4a939-036c-4d27-8d7e-4ebee8533413
+¸
+java:S1319""pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ìå‹„ûÿÿÿÿ8ººÓõ3J$cc293e48-7e6b-4160-855a-6abe21dc85a9
+²
+java:S1319-"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†‹“f8ººÓõ3J$8b589207-a71d-43df-b7f3-972c4b16e7d1
+
+java:S1488Q"[Immediately return this expression instead of assigning it to the temporary variable "res".(ë§æì8èË†Ï«3J$46d6ccaa-2870-4a22-a89c-2795c6689ebc
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¸œ­ıÿÿÿÿ8»ºÓõ3J$42beda1c-0c88-4310-b45d-bed59f32e9af
+l	java:S106"+Replace this use of System.out by a logger.(¬¿ú58ÂºÓõ3J$d0e4d9ff-1dca-47af-abca-932d76210982
+m	java:S106"+Replace this use of System.out by a logger.(¶ñ†8ÂºÓõ3J$63006528-618d-4319-aafd-f38c4ce27bcf
+r	java:S106"+Replace this use of System.out by a logger.(Üÿ“üÿÿÿÿ8ÂºÓõ3J$002e2bdc-69a3-497d-8948-cf4f934bd6c3
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¤¾‡Ï«3J$d03542d7-03f0-42a4-a502-987a631a63ee

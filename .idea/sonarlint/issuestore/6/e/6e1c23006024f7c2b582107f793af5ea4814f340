@@ -1,0 +1,10 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†«…΄ÿÿÿÿÿ8Ω„υθ3
+A
+java:S1659
+"Declare "n" on a separate line.(²ΓκΜϋÿÿÿÿ8δ„υθ3
+\
+java:S1659"?Declare "p2" and all following declarations on a separate line.(Υ―Β8η„υθ3
+L	java:S106"+Replace this use of System.out by a logger.(Ά¬Ο²ώÿÿÿÿ8π„υθ3
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(χ‰ξƒ8ς„υθ3

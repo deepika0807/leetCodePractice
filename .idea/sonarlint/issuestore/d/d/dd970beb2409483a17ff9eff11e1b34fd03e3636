@@ -1,0 +1,9 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦»ş„8Ú–ãêŸ3J$af4d3d36-7b76-4e53-9b2b-1669aad16e1c
+m	java:S106
+"+Replace this use of System.out by a logger.(ÃÒãÚ8ã–ãêŸ3J$648eda3b-ba61-457d-8b26-9ebc8d064d9a
+k
+java:S1659"(Declare "currentSum" on a separate line.(èÁ³¤8ä–ãêŸ3J$b918c8e2-8aea-4432-90b1-a8d5d2bac61c
+~	java:S125"<This block of commented-out lines of code should be removed.(Ì±‡Ü8å´æêŸ3J$728b759d-8493-4cae-818e-1b6048b7a06a
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8å–ãêŸ3J$3732c981-e074-4ca2-9341-9ea9db05591f

@@ -1,0 +1,13 @@
+
+‰
+java:S2259"AA "NullPointerException" could be thrown; "str" is nullable here.(‘İæØúÿÿÿÿ8úùÖÎ“3J$d7209940-cc22-4513-8ad9-d0c7520aed29
+†
+java:S3518"CMake sure this expression can't be zero before doing this division.(ï»Šó8ûùÖÎ“3J$6bc9426c-b61c-4948-be12-e48070b42304
+t
+java:S1602",Remove useless curly braces around statement(˜å‚­ÿÿÿÿÿ8üùÖÎ“3J$89c86a0f-f16c-454c-8b66-f4738fd95b85
+r	java:S106"+Replace this use of System.out by a logger.(Ó«ç†úÿÿÿÿ8ıùÖÎ“3J$2b0093f4-5591-40e1-9c6e-3751a61f23c8
+x
+java:S1854"5Remove this useless assignment to local variable "x".(ï»Šó8ıùÖÎ“3J$f66e7763-b835-4f56-8621-ad0f6646ac4b
+i
+java:S1481"&Remove this unused "x" local variable.(ï»Šó8şùÖÎ“3J$47c15b62-7c93-4a8e-82e1-4b65d2d0e988
+r	java:S106"+Replace this use of System.out by a logger.(‘İæØúÿÿÿÿ8şùÖÎ“3J$ea466a3a-11dd-47cd-9067-f649bab55cfc

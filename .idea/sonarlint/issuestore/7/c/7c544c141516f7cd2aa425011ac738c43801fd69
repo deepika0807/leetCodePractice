@@ -1,0 +1,11 @@
+
+w
+java:S1066'"/Merge this if statement with the enclosing one.(¥¡µÍşÿÿÿÿ8Ù‚òâ˜3J$0c67f691-a1a2-40da-a277-f563a934aed9
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤Ïà8Û‚òâ˜3J$d07cab61-a456-469e-8d9a-28b67fa6f720
+m	java:S106"+Replace this use of System.out by a logger.(ÏÛÕò8é‚òâ˜3J$5f32a45d-dd1d-4b50-a253-461654a35e06
+r	java:S106"+Replace this use of System.out by a logger.(°­Ôöıÿÿÿÿ8Ï²÷â˜3J$3ec5e318-dfa6-48bb-8096-f4b5263dbcc7
+ƒ	java:S125-"<This block of commented-out lines of code should be removed.(¶ş©¿ùÿÿÿÿ8ë‚òâ˜3J$d97c4f66-fc79-41f3-845a-0d984c83ed2d
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ì‚òâ˜3J$da21ba21-4c8c-4db6-94e0-efd233927a2e
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ì‚òâ˜3J$e188fdc1-57ca-48d2-beaf-74aa18c9081c

@@ -1,0 +1,18 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á²Œ˜úÿÿÿÿ8êöý…Œ3J$8f33a706-e107-42cd-8b67-ebcc9ce72b6d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Äƒ«êøÿÿÿÿ8òöý…Œ3J$678024f3-88d7-4e19-813c-d951a422ed5b
+l	java:S106$"+Replace this use of System.out by a logger.(ý€­m8­³‡†Œ3J$3b4e76a5-98db-457b-a0e2-12d5fbab4bf9
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8È«€†Œ3J$d4cf279a-7a28-4853-a672-af8cd37b353f
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8È«€†Œ3J$8d83aa53-6e20-4edc-b77a-87303dbc17c3
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8È«€†Œ3J$8fc40005-073b-4edd-892a-8aa453d9b087
+|
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿ8È«€†Œ3J$7a8b49e5-715c-47aa-880c-f352a7307323
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8È«€†Œ3J$1fce5113-f50e-41d8-b37a-7780a58950b9
+r
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8È«€†Œ3J$7f421fcd-91c6-46a2-b75b-4ceb20bb713f
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8È«€†Œ3J$d0623232-e00b-44fc-b49e-52e7130248e4

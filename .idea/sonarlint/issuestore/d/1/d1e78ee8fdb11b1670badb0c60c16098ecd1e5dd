@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡Å´êýÿÿÿÿ8ã‡©à«3J$e437d6f3-5762-44b8-8a99-1713f79f62fe
+r	java:S106	"+Replace this use of System.out by a logger.(¼–“¨ùÿÿÿÿ8ªˆ©à«3J$3df5342e-c656-4455-8fa0-91c0469db5da
+r	java:S106"+Replace this use of System.out by a logger.(Ç£Î‡ùÿÿÿÿ8ªˆ©à«3J$fa515fdd-c167-4b9d-a4c1-5704cf5cc1d1
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(…È³—ÿÿÿÿÿ8«ˆ©à«3J$c7a8e74f-9770-4b21-8a09-fe13627dc95b
+
+java:S1854!"7Remove this useless assignment to local variable "avg".(ÍŠÈöÿÿÿÿÿ8³ˆ©à«3J$4456b6e2-2484-4ea9-a38d-1975df3621b8
+h
+java:S1659"" Declare "p2" on a separate line.(ƒ›¨âøÿÿÿÿ8¹ˆ©à«3J$574fb948-e2c1-4145-816a-8503cef66f67
+
+java:S18549"7Remove this useless assignment to local variable "avg".(ç¿þèüÿÿÿÿ8ºˆ©à«3J$fadfabc3-c1bb-47e2-b112-f7c324aa7c51
+
+java:S1854O"7Remove this useless assignment to local variable "avg".(ÍŠÈöÿÿÿÿÿ8ºˆ©à«3J$fcd9c7e1-145c-45a9-9375-30a47d362c66
+p
+java:S1481O"(Remove this unused "avg" local variable.(ÍŠÈöÿÿÿÿÿ8¿ˆ©à«3J$e221c762-a71d-4a78-b5e1-7e2aad124e2a

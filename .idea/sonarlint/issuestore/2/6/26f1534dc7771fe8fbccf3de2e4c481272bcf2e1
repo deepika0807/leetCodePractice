@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤¸œ­ıÿÿÿÿ8³¦ó«’3J$559e91d4-dc75-471d-95d6-e22b6718f9d7
+m	java:S106"+Replace this use of System.out by a logger.(áš€8º¦ó«’3J$1eb58fb5-c947-4823-8c61-14208af7c692
+_
+java:S1116"Remove this empty statement.(®¼¨¶8Ê—ş«’3J$7ff5c143-d673-41aa-b7fc-717155f99e87
+r	java:S106"+Replace this use of System.out by a logger.(‚é€Şûÿÿÿÿ8òÚ÷«’3J$7837853e-d77c-4d0e-89b0-2d488a61d3c6
+k
+java:S1659"#Declare "count" on a separate line.(¥„ª®ÿÿÿÿÿ8½¦ó«’3J$e8409c2a-2c2d-4b44-adeb-36c0bc482a95
+w
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8º¿ş«’3J$2f4ef82a-1137-4fe6-b297-82fee4976e7d

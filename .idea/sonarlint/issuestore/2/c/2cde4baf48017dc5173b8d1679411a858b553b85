@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø’¼Ğ8Öİ–™3J$ed59335d-3f74-4b9e-b7fc-00e0d25b5e44
+m	java:S106"+Replace this use of System.out by a logger.(£¡¦›8“Ş–™3J$1b443181-778d-481e-868d-18ff296d02a3
+m	java:S106"+Replace this use of System.out by a logger.(–¯„8“Ş–™3J$e38f2cb1-8917-43d4-a3e8-4e51653e813c
+r	java:S106"+Replace this use of System.out by a logger.(Ûô„ùÿÿÿÿ8Á×Ñ™3J$f5b137c9-515b-450a-9984-56ee92b9f5fc
+n
+java:S1659"&Declare "maxRight" on a separate line.(Úİ£ÿÿÿÿÿ8”Ş–™3J$bc874df9-572a-417c-931b-dc87652ca99c
+‚
+java:S16598"?Declare "p2" and all following declarations on a separate line.( €¨Ş8–Ş–™3J$41f8afbb-6c62-4ed8-8189-3e2a78f3cbcc
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ˆ¥Ğ™3J$70814193-a01e-48cd-a510-06d18a4f582d
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8—Ş–™3J$17981dbe-62d7-4a3f-849c-ba960877e4c7

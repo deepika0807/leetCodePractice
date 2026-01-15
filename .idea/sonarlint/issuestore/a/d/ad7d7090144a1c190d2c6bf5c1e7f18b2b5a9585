@@ -1,0 +1,22 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(Í·ş8šƒÃ¹°3J$56a719c6-254d-4f4c-8af0-6dca99be4bc3
+w
+java:S3740"/Provide the parametrized type for this generic.(æ¬ÙÓıÿÿÿÿ8¡ƒÃ¹°3J$cd93481c-f47c-4ebd-9b99-15bbb699927b
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(á²Œ˜úÿÿÿÿ8§ƒÃ¹°3J$cda05aa1-da75-4797-b4e5-2c9ec5f25479
+r	java:S106"+Replace this use of System.out by a logger.(Ô’­½ûÿÿÿÿ8³ƒÃ¹°3J$4a8d63fe-1b38-44e2-861f-4dbd9ddf0428
+d
+java:S1116)"Remove this empty statement.(ôŸìúÿÿÿÿ8µƒÃ¹°3J$d2b0caad-c3bb-4793-ab80-90ef6090ba20
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¶ƒÃ¹°3J$a976df53-adc9-4a17-bcad-fc6c11dcd248
+t
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¶ƒÃ¹°3J$e3116f52-0d6a-4761-87f0-5a43429923cf
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¶ƒÃ¹°3J$932fdafa-a203-4ad8-987c-4bb75163006f
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶ƒÃ¹°3J$006d9b2b-16f0-4830-87e9-94bd01b31aa0
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¶ƒÃ¹°3J$800245e7-58bd-419c-bc27-d846122d53fc
+€
+java:S1128
+"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¶ƒÃ¹°3J$942ae1c6-aa17-45b2-aabd-3f1858ccd71b

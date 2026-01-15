@@ -1,0 +1,10 @@
+
+•
+java:S1104"SMake EmpName a static final constant or non-public and provide accessors if needed.(£§*8ιλα‹3J$16f1d3d7-83af-40ec-a102-22187314c19f
+|
+java:S3516"9Refactor this method to not always return the same value.(ΗΎ£8¨ιλα‹3J$942077bf-91ec-41f2-b769-f6060b53e36b
+Δ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ΫΫ―ψ8©ιλα‹3J$6bb6cc27-5f64-422b-9670-ddb702db8a93
+“	java:S116"RRename this field "EmpName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£§*8«ιλα‹3J$1542e550-5db8-4552-b18a-fb166ac933a5
+
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ΗΎ£8«ιλα‹3J$da737d1e-0c1c-47a0-b708-131d6d434366

@@ -1,0 +1,12 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ìã²Éıÿÿÿÿ8şÇ×¶©3J$fca42d69-84d3-45f2-9e92-a7d17a489788
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(šÇÆÁûÿÿÿÿ8şÇ×¶©3J$003a4a6c-0e52-4d1d-9d22-cfb53073278e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ùßİùÿÿÿÿ8ÿÇ×¶©3J$207d45d4-8570-417e-b208-2c7ce2f6ba37
+m	java:S106"+Replace this use of System.out by a logger.(­æü‚8†È×¶©3J$e163ecef-3e9c-42cb-a21e-78f48ae9e20d
+r	java:S106"+Replace this use of System.out by a logger.(†Ÿ´Áùÿÿÿÿ8‡È×¶©3J$5834d6a6-89dc-415d-8d57-b4e41e05e4a3
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8¢È×¶©3J$78231b24-f08a-4af1-a0da-82647543c03f
+r	java:S106"+Replace this use of System.out by a logger.(ÚÙê‘şÿÿÿÿ8¤È×¶©3J$87990e52-e3f6-4e49-882c-bbc738f0d867
+m	java:S106 "+Replace this use of System.out by a logger.(°Ë–8ßÍØ¶©3J$6fdd7188-7b99-4ed0-bdcf-29742d24448d
+R
+java:S2446!"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8„ğÙ¶©3

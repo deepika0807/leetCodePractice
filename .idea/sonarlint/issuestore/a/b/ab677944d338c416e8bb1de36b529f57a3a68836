@@ -1,0 +1,20 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯íº–8öœπ¡©3J$aa38c2c7-5064-4f51-b59b-4cff83c447a3
+m	java:S106"+Replace this use of System.out by a logger.(˙ÎŒü8ë–π¡©3J$3d1c7b85-7552-499d-b436-e8bfcd6cd58d
+m	java:S106"+Replace this use of System.out by a logger.(¢ÇØÈ8ë–π¡©3J$87f47f2f-2540-496d-b152-965c172bc468
+m	java:S106"+Replace this use of System.out by a logger.(Ö»∂ù8ë–π¡©3J$2284b25f-06b7-4428-a9b9-a2bcf59e3aca
+î
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ê´ÄP8í–π¡©3J$fc5e7001-a166-4f90-a1fd-d35d9d90d14e
+~	java:S125"<This block of commented-out lines of code should be removed.(£ü∂Ø8ì–π¡©3J$b913a733-a1f4-4ac5-8e92-b33754917c2d
+c
+java:S16591" Declare "p2" on a separate line.(ôœŒÕ8î–π¡©3J$70f9dfb2-9759-4c3b-8c15-d0ba3253a018
+ö
+java:S3776E"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(∫˚ÇØ˙ˇˇˇˇ8ï–π¡©3J$e4feddb0-5643-4c3a-8134-e3667592d9b3
+h
+java:S1659R" Declare "p3" on a separate line.(‰±°æ˚ˇˇˇˇ8ï–π¡©3J$240642b0-966b-49da-b7c1-9efba6e9545f
+ö
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(„îêç¸ˇˇˇˇ8ñ–π¡©3J$4e54ed0a-d2cf-4fcd-b9e5-ef74a7721fa5
+c
+java:S1659u" Declare "p2" on a separate line.(ôœŒÕ8ñ–π¡©3J$bc4b78e5-f37e-46b8-9302-123eb82950ef
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢≥Ô”˛ˇˇˇˇ8ó–π¡©3J$f32deba9-fb28-450a-be44-c68de3d8b2bd
